@@ -62,3 +62,7 @@ If you find our work helpful, please cite our paper:
   year={2026}
 }
 ```
+
+### Acknowledgements
+
+We sincerely thank the authors of [SparseGPT](https://github.com/IST-DASLab/sparsegpt), [Wanda](https://github.com/locuslab/wanda), and [TAMP](https://github.com/G-JWLee/TAMP) for open-sourcing their codebases, upon which our work is built.
